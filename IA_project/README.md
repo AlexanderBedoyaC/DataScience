@@ -8,7 +8,7 @@ En este repositorio se alojan las entregas para el proyecto final del curso de I
 Link proyecto: https://www.kaggle.com/competitions/pubg-finish-placement-prediction/
 
 ## Miembros del grupo:
-- Jhon Alexander Bedoya Carvajal
+- Jhon Alexander Bedoya Carvajal : https://www.linkedin.com/in/jhon-alexander-bedoya-carvajal-17a724202/
 - Maria Camila Arcila Ramírez
 
 ## Datos:
