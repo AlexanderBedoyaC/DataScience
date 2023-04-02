@@ -1,2 +1,2 @@
 # Data_Science
-Data Science and Artificial Intelligent projects.
+Data Science and Artificial Intelligence projects.
